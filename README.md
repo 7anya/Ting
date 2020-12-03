@@ -8,7 +8,7 @@
 - With this application keep track of all your daily activities all in one app, make catgories, place events, notes and  TO-DOs
 - Google signin/Authentication
 - Google Calender integration
-- Share events through WhatsApp, messnenger,email, or any app on android that lets messages to be shared
+- Share events through WhatsApp, messenger,email, or any app on android that lets messages to be shared
 
 
 # Bugs
